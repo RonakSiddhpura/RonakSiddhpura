@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is  Ronak and I'm a Fullstack Developer  and  Software Engineer Enthusiastic.</p>
+<p align="left">My name is  Ronak Siddhpura and I'm a Fullstack Developer  and  Software Engineer Enthusiastic.</p>
 
 ###
 
