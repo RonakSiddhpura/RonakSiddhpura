@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📚 I'm currently working on flutter.<br>🌱I'm currently learning Devops.<br>🤵 Experience: HTML,CSS,Bootstrap,JavaScript,C,C++,Java,Python,Flutter,React,js and Node.js</h5>
+<h5 align="left">📚 I'm currently working on MERN.<br>🌱I'm currently learning Devops.<br>🤵 Experience: HTML,CSS,Bootstrap,JavaScript,C,C++,Java,Python,Flutter,React,js and Node.js</h5>
 
 ###
 
