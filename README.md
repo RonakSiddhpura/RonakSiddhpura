@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋 I'm Ronak Siddhpura</h1>
 
 ###
 
-<p align="left">My name is  Ronak Siddhpura and I'm a Software Engineer and Devops Enthusiastic.</p>
+<p align="left">A passionate Software Engineer and Devops Enthusiastic.</p>
 
 ###
 
