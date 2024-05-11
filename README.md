@@ -24,6 +24,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=RonakSiddhpura&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=RonakSiddhpura.RonakSiddhpura&left_color=green&right_color=red)
+[![](https://visitcount.itsvg.in/api?id=RonakSiddhpura&icon=8&color=0)](https://visitcount.itsvg.in)
 
 
