@@ -7,7 +7,7 @@
 ###
 
 # 💫 About Me:
-📚 I'm currently working on MERN.<br>🌱I'm currently learning Devops.<br>🤵 Experience: HTML,CSS,Bootstrap,JavaScript,C,C++,Java,Python,Flutter(basics),Reactjs and Node.js.Tailwind Css
+📚 I'm currently working on MERN.<br>🌱I'm currently learning Devops.<br>🤵 Experience: HTML,CSS,Bootstrap,JavaScript,C,C++,Java,Python,Flutter,Reactjs and Node.js,Tailwind CSS,Flask
 
 
 ## 🌐 Socials:
